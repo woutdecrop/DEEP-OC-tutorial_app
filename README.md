@@ -3,7 +3,7 @@
 </div>
 
 # DEEP-OC-tutorial_app
-[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/UC-woutdecrop-DEEP-OC-tutorial_app/master)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/UC-woutdecrop-DEEP-OC-tutorial_app/job/master)
+[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/UC-woutdecrop-DEEP-OC-tutorial_app/test)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/UC-woutdecrop-DEEP-OC-tutorial_app/job/test)
 
 This is a container that will run the [tutorial_app](https://github.com/woutdecrop/tutorial_app) application leveraging the DEEP as a Service API component ([DEEPaaS API V2](https://github.com/indigo-dc/DEEPaaS)).
 
